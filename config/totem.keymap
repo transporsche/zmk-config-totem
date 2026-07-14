@@ -88,7 +88,7 @@
             &kp Q       &kp W       &kp E        &kp R        &kp T        &kp Z    &kp U        &kp I        &kp O           &kp P
             &mt LGUI A  &mt LALT S  &mt LCTRL D  &mt LSHFT F  &kp G        &kp H    &mt RSHFT J  &mt LCTRL K  &mt LEFT_ALT L  &mt LEFT_WIN SEMICOLON
 &kp ESCAPE  &kp Y       &kp X       &kp C        &kp V        &kp B        &kp N    &kp M        &kp COMMA    &kp DOT         &kp SLASH               &kp TAB
-                                    &kp DELETE   &lt 1 TAB    &kp SPACE    &kp RET  &lt 2 ESC    &kp BSPC
+                                    &kp DELETE   &mo 1        &kp SPACE    &kp RET  &mo 2        &kp BSPC
             >;
         };
 
